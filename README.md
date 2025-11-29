@@ -1,6 +1,6 @@
 ## Hi there 👋
-Im cs dev specialized in different aspects but mainly on game develpment
-my dream is to one day make it on the game dev scene
+Im a cs dev specialized in different aspects but mainly on game develpment
+my dream is one day make it on the game dev scene
 
 Im currently still learning the basic aspects of programming and im willing to collaborate with people that are interensted
 
