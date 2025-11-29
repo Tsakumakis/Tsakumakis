@@ -1,4 +1,13 @@
 ## Hi there 👋
+Im cs dev specialized in different aspects but mainly on game develpment
+my dream is to one day make it on the game dev scene
+
+Im currently still learning the basic aspects of programming and im willing to collaborate with people that are interensted
+
+
+##How to reach me
+discord:@tsakamotoo
+email:@kostasdimitrakopulos@gmail.com
 
 <!--
 **Tsakumakis/Tsakumakis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
